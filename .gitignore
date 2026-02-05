@@ -1,0 +1,20 @@
+# Craft CMS .gitignore
+/vendor/
+/node_modules/
+.env
+.env.*
+!.env.example
+/storage/*
+!/storage/.gitkeep
+/web/cpresources/
+/web/uploads/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.local/
+.devcontainer/
+.zed_server/
