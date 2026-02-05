@@ -1,0 +1,22 @@
+dateModified: 1770269087
+email:
+  fromEmail: oliver@bone.digital
+  fromName: bone-demo
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1b618dae-cd16-4811-891a-03113976d103: bone-demo # bone-demo
+    050ed5d7-99f2-4d51-9bb1-544f0c5071a6: bone-demo # bone-demo
+system:
+  edition: pro
+  live: true
+  name: bone-demo
+  schemaVersion: 5.9.0.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true

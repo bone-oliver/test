@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: bone-demo
+primary: true
+siteGroup: 1b618dae-cd16-4811-891a-03113976d103 # bone-demo
+sortOrder: 1

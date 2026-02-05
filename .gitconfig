@@ -1,0 +1,7 @@
+[user]
+	name = Oliver Shearman
+	email = oliver@bone.digital
+[safe]
+	directory = /app
+[core]
+	sshCommand = ssh -F /home/appuser/.ssh/config
